@@ -159,19 +159,6 @@ Planned future development includes:
 
 ---
 
-## Gallery 📸
-
-### Circuit Schematics
-*CircuitLab and theoretical logic schematics documenting NOR gate implementation and system behavior.*
-
-### Physical Prototype
-*Breadboard implementation of the intrusion detection system including LED indicators, NOR gate integration, and physical wiring layout.*
-
-### System Validation
-*Truth tables, Boolean calculations, and testing documentation validating system behavior.*
-
----
-
 ## Tools & Software Used 🛠️
 
 - CircuitLab

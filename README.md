@@ -149,6 +149,7 @@ This project reinforced several important engineering concepts:
 
 ### Circuit Schematics
 [View Theoretical Schematic](./theoretical_Schematic.pdf)
+
 [View Practical Schematic](./practical_Schematic.pdf)
 
 ---

@@ -147,7 +147,9 @@ This project reinforced several important engineering concepts:
 
 ## Gallery 📸
 
-### Circuit Schematic
+### Circuit Schematics
+[View Theoretical Schematic](./theoretical_Schematic.pdf)
+[View Practical Schematic](./practical_Schematic.pdf)
 
 ---
 

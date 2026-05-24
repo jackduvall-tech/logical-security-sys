@@ -6,7 +6,7 @@ The project was developed as both a practical security-system proof of concept a
 
 ---
 
-## Project Overview ⚙️
+## Project Overview 🔮
 
 This system monitors three simulated entry points:
 
@@ -28,7 +28,7 @@ The project demonstrates how digital logic can be applied to create fast, reliab
 
 ---
 
-## Project Goals 🎯
+## Project Goals 🏆
 
 - Design a real-time logic-based intrusion detection system
 - Apply combinational logic concepts to a physical hardware build
@@ -54,7 +54,7 @@ This creates a simple real-time monitoring system capable of visually identifyin
 
 ---
 
-## Hardware Components 🔧
+## Hardware Components 🤖
 
 ### Core Components
 - SN74LS02N Quad 2-Input NOR Gate
@@ -73,7 +73,7 @@ This creates a simple real-time monitoring system capable of visually identifyin
 
 ---
 
-## Design Workflow 🛠️
+## Design Workflow 👨🏻‍🎨
 
 The project followed a multi-stage engineering workflow:
 
@@ -104,7 +104,7 @@ One major design adaptation involved replacing the intended 3-input NOR gate wit
 
 ---
 
-## Testing & Validation ✅
+## Testing & Validation 🧪
 
 Testing was performed through both simulation and physical hardware implementation.
 
@@ -133,19 +133,17 @@ Planned future development includes:
 
 ---
 
-## Key Takeaways 📚
+## Takeways 📚
 
-This project reinforced several important engineering concepts:
-
-- Simulations do not guarantee successful physical implementation
-- Hardware debugging is a critical engineering skill
-- Organized wiring and incremental testing greatly improve troubleshooting
-- Simple digital logic can solve meaningful real-world problems
-- Design constraints often require practical engineering compromises
+- Hardware debugging requires structured incremental testing
+- Physical implementation introduces constraints not visible in simulation
+- Organized wiring and documentation dramatically simplify troubleshooting
+- Engineering design often requires adapting to real-world component limitations
+- Simple digital logic can solve meaningful real-world problems with minimal hardware
 
 ---
 
-## Project Documentation & Schematics 📄
+## Project Documentation & Schematics 🖨️
 
 ### Logic System Documentation
 - [Custom Truth Table](./custom-truthtable.pdf)
@@ -158,15 +156,23 @@ This project reinforced several important engineering concepts:
 ### Additional Schematics
 - [Theoretical Schematic](./theoretical_Schematic.pdf)
 - [Practical Schematic](./practical_Schematic.pdf)
----
-
-## Full Documentation 📄
-
-Detailed project documentation, calculations, schematics, testing procedures, and design analysis are included in the project report.
 
 ---
 
-## Tools & Software Used 💻
+## Gallery 📸
+
+### Circuit Schematics
+*CircuitLab and theoretical logic schematics documenting NOR gate implementation and system behavior.*
+
+### Physical Prototype
+*Breadboard implementation of the intrusion detection system including LED indicators, NOR gate integration, and physical wiring layout.*
+
+### System Validation
+*Truth tables, Boolean calculations, and testing documentation validating system behavior.*
+
+---
+
+## Tools & Software Used 🛠️
 
 - CircuitLab
 - TinkerCAD
@@ -174,3 +180,4 @@ Detailed project documentation, calculations, schematics, testing procedures, an
 - Digital Logic Design
 - Boolean Algebra
 - Combinational Logic Analysis
+- Hardware Troubleshooting & Validation

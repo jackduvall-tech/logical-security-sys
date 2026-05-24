@@ -145,23 +145,19 @@ This project reinforced several important engineering concepts:
 
 ---
 
-## Gallery 📸
+## Project Documentation & Schematics 📄
 
-### Circuit Schematics
-[View Theoretical Schematic](./theoretical_Schematic.pdf)
+### Logic System Documentation
+- [Custom Truth Table](./custom-truthtable.pdf)
+- [Sample Boolean Calculations](./sample_boolean_calcs.pdf)
 
-[View Practical Schematic](./practical_Schematic.pdf)
+### Hardware & Physical Build
+- [Physical Breadboard Build](./physical_board.pdf)
+- [Annotated Physical Board](./physical_board-annotated.pdf)
 
----
-
-### Breadboard Prototype
-*Add breadboard image here*
-
----
-
-### Truth Table & Boolean Logic
-*Add truth table image here*
-
+### Additional Schematics
+- [Theoretical Schematic](./theoretical_Schematic.pdf)
+- [Practical Schematic](./practical_Schematic.pdf)
 ---
 
 ## Full Documentation 📄
